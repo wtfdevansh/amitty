@@ -1,0 +1,14 @@
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #cb8111;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgb(227, 199, 12), rgb(26, 134, 188));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgb(203, 175, 17), rgb(29, 106, 238))
+    }
+
+.amityimg{
+    margin-top: 30px;
+}

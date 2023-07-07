@@ -1,0 +1,46 @@
+table, th, td {
+    border: 1px solid black;
+    padding:0%;
+
+  }
+
+
+  .table{
+    margin-top: 20px;
+    width: 800px;
+    height: 300px;
+    background-color:rgb(245, 242, 240);
+    border-collapse: collapse;
+  }
+
+  .naming{
+     margin-left: 30px;
+     display: block;
+  }
+
+  .examination{
+    color: blue;
+    margin-left: 30px;
+    font-weight: 100;
+  }
+
+  .semester{
+    height: 40px;
+    background-color: rgb(224, 220, 220);
+    padding-top: 12.5px;
+    margin-top: 60px;
+  }
+
+  .promoted{
+    color: rgb(83, 83, 242);
+  }
+
+  .four{
+    font-size: larger;
+  }
+
+  .GAP{
+    width:800px;
+    height: 100px;
+  }
+
